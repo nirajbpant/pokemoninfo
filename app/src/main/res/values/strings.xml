@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokemon Info</string>
+    <string name="network_error_message">Internet connection not available. Please try agian later</string>
+</resources>
